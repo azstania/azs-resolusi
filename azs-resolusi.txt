@@ -1,6 +1,6 @@
 AZS RESOLUSI
 - Belajar github
 - HTML & CSS
-- Buat website
 - Java & JavaScript
 - Text editor vscode
+- Konsisten belajar coding
