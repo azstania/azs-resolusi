@@ -5,5 +5,7 @@ RENCANA KONTEN AZS
  * menaikkan penjualan online
 - font tebal dan besar hampir memenuhi layar
 - gambar 3d
+ * gambar animasi
 - background kontras
 - warna font gradasi
+- 
