@@ -3,6 +3,7 @@ RENCANA KONTEN AZS
 - trend website 2023
  * untuk website jus
   ^ tambah fitur call to action
+  ^ warna ceria tapi tetap elegant
  * menaikkan penjualan online
 - font tebal dan besar hampir memenuhi layar
 - gambar 3d
